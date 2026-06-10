@@ -37,3 +37,23 @@ Amazon S3 Bucket
 
 ## Outcome
 Successfully deployed a static website using Amazon S3 and CloudFront.
+
+## Project Screenshots
+
+### S3 Bucket
+![S3 Bucket](screenshots/s3-bucket.png)
+
+### Static Website Hosting
+![Static Website Hosting](screenshots/static-website-hosting-enabled.png)
+
+### Bucket Policy
+![Bucket Policy](screenshots/bucket-policy.png)
+
+### S3 Versioning
+![S3 Versioning](screenshots/bucket-versioning-enabled.png)
+
+### CloudFront Distribution
+![CloudFront Distribution](screenshots/cloudfront-distribution.png)
+
+### Live Website
+![Live Website](screenshots/website-live.png)
